@@ -6,8 +6,9 @@ namespace Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            AddTwoNumbers.Addition();
+           // Console.WriteLine("Hello World!");
+            //AddTwoNumbers.Addition();
+            SubtractionTwoNum.subtration();
         }
     }
 }
